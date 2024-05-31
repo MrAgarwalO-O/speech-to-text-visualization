@@ -1,0 +1,293 @@
+[
+    {
+        "audio_file": "Audios\\Audio1.flac",
+        "transcription": "but is laughter a synonym of joy",
+        "num_words": 7,
+        "length_text": 32,
+        "pos_counts": {
+            "CC": 1,
+            "VBZ": 1,
+            "RBR": 1,
+            "DT": 1,
+            "NN": 2,
+            "IN": 1
+        },
+        "sentiment": [
+            0.8,
+            0.2
+        ],
+        "entities": [],
+        "keyword_freq": {
+            "laughter": 1,
+            "synonym": 1,
+            "joy": 1
+        }
+    },
+    {
+        "audio_file": "Audios\\Audio10.flac",
+        "transcription": "no one could escape from this rictus",
+        "num_words": 7,
+        "length_text": 36,
+        "pos_counts": {
+            "DT": 2,
+            "NN": 2,
+            "MD": 1,
+            "VB": 1,
+            "IN": 1
+        },
+        "sentiment": [
+            0.0,
+            0.0
+        ],
+        "entities": [],
+        "keyword_freq": {
+            "escape": 1,
+            "rictus": 1
+        }
+    },
+    {
+        "audio_file": "Audios\\Audio2.flac",
+        "transcription": "search perfect completeness is not in nature",
+        "num_words": 7,
+        "length_text": 44,
+        "pos_counts": {
+            "NN": 3,
+            "JJ": 1,
+            "VBZ": 1,
+            "RB": 1,
+            "IN": 1
+        },
+        "sentiment": [
+            1.0,
+            1.0
+        ],
+        "entities": [],
+        "keyword_freq": {
+            "search": 1,
+            "perfect": 1,
+            "completeness": 1,
+            "nature": 1
+        }
+    },
+    {
+        "audio_file": "Audios\\Audio3.flac",
+        "transcription": "had Gwen playing when a child been so worthy of attention that his face had been subjected to transmutation why not",
+        "num_words": 21,
+        "length_text": 115,
+        "pos_counts": {
+            "VBD": 2,
+            "NNP": 1,
+            "VBG": 1,
+            "WRB": 2,
+            "DT": 1,
+            "NN": 3,
+            "VBN": 3,
+            "RB": 2,
+            "JJ": 1,
+            "IN": 2,
+            "PRP$": 1,
+            "TO": 1,
+            "VB": 1
+        },
+        "sentiment": [
+            0.3333333333333333,
+            1.0
+        ],
+        "entities": [],
+        "keyword_freq": {
+            "Gwen": 1,
+            "playing": 1,
+            "child": 1,
+            "worthy": 1,
+            "attention": 1,
+            "face": 1,
+            "subjected": 1,
+            "transmutation": 1
+        }
+    },
+    {
+        "audio_file": "Audios\\Audio4.flac",
+        "transcription": "according to all appearance industrious manipulators of children had worked upon his face",
+        "num_words": 13,
+        "length_text": 89,
+        "pos_counts": {
+            "VBG": 1,
+            "TO": 1,
+            "DT": 1,
+            "NN": 2,
+            "JJ": 1,
+            "NNS": 2,
+            "IN": 2,
+            "VBD": 1,
+            "VBN": 1,
+            "PRP$": 1
+        },
+        "sentiment": [
+            0.0,
+            0.0
+        ],
+        "entities": [],
+        "keyword_freq": {
+            "according": 1,
+            "appearance": 1,
+            "industrious": 1,
+            "manipulators": 1,
+            "children": 1,
+            "worked": 1,
+            "face": 1
+        }
+    },
+    {
+        "audio_file": "Audios\\Audio5.flac",
+        "transcription": "it seemed evident that a mysterious and probably occult science which was to surgery what Alchemy was to chemistry had chiseled his flesh evidently at a very tender age and manufactured his countenance with premeditation",
+        "num_words": 35,
+        "length_text": 220,
+        "pos_counts": {
+            "PRP": 1,
+            "VBD": 5,
+            "JJ": 4,
+            "IN": 3,
+            "DT": 2,
+            "CC": 2,
+            "RB": 3,
+            "NN": 5,
+            "WDT": 1,
+            "TO": 2,
+            "VB": 2,
+            "WP": 1,
+            "NNP": 1,
+            "VBN": 1,
+            "PRP$": 2
+        },
+        "sentiment": [
+            0.15,
+            0.5166666666666667
+        ],
+        "entities": [
+            [
+                "Alchemy",
+                "PERSON"
+            ]
+        ],
+        "keyword_freq": {
+            "evident": 1,
+            "mysterious": 1,
+            "probably": 1,
+            "occult": 1,
+            "science": 1,
+            "surgery": 1,
+            "Alchemy": 1,
+            "chemistry": 1,
+            "chiseled": 1,
+            "flesh": 1,
+            "evidently": 1,
+            "tender": 1,
+            "age": 1,
+            "manufactured": 1,
+            "countenance": 1,
+            "premeditation": 1
+        }
+    },
+    {
+        "audio_file": "Audios\\Audio6.flac",
+        "transcription": "Gwen plane was a mountebank",
+        "num_words": 5,
+        "length_text": 27,
+        "pos_counts": {
+            "NNP": 1,
+            "NN": 2,
+            "VBD": 1,
+            "DT": 1
+        },
+        "sentiment": [
+            0.0,
+            0.0
+        ],
+        "entities": [],
+        "keyword_freq": {
+            "Gwen": 1,
+            "plane": 1,
+            "mountebank": 1
+        }
+    },
+    {
+        "audio_file": "Audios\\Audio7.flac",
+        "transcription": "he showed himself on the platform",
+        "num_words": 6,
+        "length_text": 33,
+        "pos_counts": {
+            "PRP": 2,
+            "VBD": 1,
+            "IN": 1,
+            "DT": 1,
+            "NN": 1
+        },
+        "sentiment": [
+            0.0,
+            0.0
+        ],
+        "entities": [],
+        "keyword_freq": {
+            "showed": 1,
+            "platform": 1
+        }
+    },
+    {
+        "audio_file": "Audios\\Audio8.flac",
+        "transcription": "it was Gwen Plains laugh which created the laughter of others yet he did not laugh himself",
+        "num_words": 17,
+        "length_text": 90,
+        "pos_counts": {
+            "PRP": 3,
+            "VBD": 3,
+            "NNP": 2,
+            "IN": 3,
+            "WDT": 1,
+            "DT": 1,
+            "NN": 1,
+            "NNS": 1,
+            "RB": 2
+        },
+        "sentiment": [
+            0.075,
+            0.1
+        ],
+        "entities": [
+            [
+                "Gwen Plains",
+                "PERSON"
+            ]
+        ],
+        "keyword_freq": {
+            "Gwen": 1,
+            "Plains": 1,
+            "laugh": 2,
+            "created": 1,
+            "laughter": 1
+        }
+    },
+    {
+        "audio_file": "Audios\\Audio9.flac",
+        "transcription": "the outside did not depend on the interior",
+        "num_words": 8,
+        "length_text": 42,
+        "pos_counts": {
+            "DT": 2,
+            "NN": 2,
+            "VBD": 1,
+            "RB": 1,
+            "VB": 1,
+            "IN": 1
+        },
+        "sentiment": [
+            0.0,
+            0.05
+        ],
+        "entities": [],
+        "keyword_freq": {
+            "outside": 1,
+            "depend": 1,
+            "interior": 1
+        }
+    }
+]

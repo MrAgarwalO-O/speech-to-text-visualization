@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>D3 Visualizations</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <style>
+        #tooltip {
+            position: absolute;
+            text-align: center;
+            width: auto;
+            height: auto;
+            padding: 10px;
+            background: lightsteelblue;
+            border: 0px;
+            border-radius: 8px;
+            pointer-events: none;
+        }
+        .legend div {
+            display: flex;
+            align-items: center;
+        }
+    </style>
+</head>
+<body>
+    <div id="bar-chart">
+        <h2 class="chart-title">Number of Words in Audio Files</h2>
+        <svg width="460" height="300"></svg>
+    </div>
+    <div id="sentiment-chart">
+        <h2 class="chart-title">Sentiment Analysis</h2>
+        <svg width="460" height="300"></svg>
+    </div>
+    <div id="pos-chart">
+        <h2 class="chart-title">Part-of-Speech Distribution</h2>
+        <svg width="460" height="300"></svg>
+    </div>
+    <div id="radial-topic-map">
+        <h2 class="chart-title">Radial Map</h2>
+        <svg width="460" height="300"></svg>
+    </div>
+    <div id="keyword-chart">
+        <h2 class="chart-title">Keywords</h2>
+        <svg width="460" height="300"></svg>
+    </div>
+    <div id="tooltip" style="opacity: 0;"></div>
+    <div id="legend"><h4>Legend</h4></div>
+    <script src="script.js"></script>
+</body>
+</html>
